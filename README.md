@@ -47,12 +47,14 @@ O arquivo `style.css` contém a estilização para o site. A seguir estão as pr
    ```bash
    git clone https://github.com/seu-usuario/meu-cardapio.git
 
-   Melhorias Futuras
+## Melhorias Futuras
+
+```bash
 Adicionar mais perguntas à página FAQ.
 Incluir mais serviços e preços detalhados.
 Melhorar a acessibilidade do site.
 Adicionar interatividade com JavaScript.
-
+```
 
 
 
